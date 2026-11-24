@@ -1,0 +1,26 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#0A1019"/>
+  <circle cx="1260" cy="220" r="360" fill="#2F80FF" fill-opacity=".12"/>
+  <circle cx="1260" cy="220" r="245" stroke="#4DA3FF" stroke-opacity=".25"/>
+  <path d="M75 860C390 700 470 970 780 790C1030 646 1150 875 1530 655" stroke="#2F80FF" stroke-opacity=".35" stroke-width="2"/>
+  <rect x="100" y="92" width="1400" height="916" stroke="#FFFFFF" stroke-opacity=".1"/>
+  <text x="150" y="180" fill="#F4F7FB" font-family="sans-serif" font-size="43" font-weight="500">pet care</text>
+  <text x="1280" y="180" fill="#4DA3FF" font-family="monospace" font-size="16">COMMUNITY / 02</text>
+  <line x1="150" y1="225" x2="1450" y2="225" stroke="#FFFFFF" stroke-opacity=".1"/>
+  <text x="150" y="310" fill="#8B96A8" font-family="monospace" font-size="14" letter-spacing="2">GOOD CARE, SHARED</text>
+  <text x="150" y="390" fill="#F4F7FB" font-family="sans-serif" font-size="72" font-weight="500">Find a better</text>
+  <text x="150" y="468" fill="#4DA3FF" font-family="sans-serif" font-size="72" font-weight="500">way forward.</text>
+  <rect x="150" y="560" width="500" height="280" fill="#111D2B" stroke="#4DA3FF" stroke-opacity=".28"/>
+  <text x="192" y="625" fill="#8B96A8" font-family="monospace" font-size="13">CARE CIRCLE / NEAR YOU</text>
+  <circle cx="260" cy="732" r="48" fill="#2F80FF" fill-opacity=".18" stroke="#4DA3FF" stroke-opacity=".6"/>
+  <circle cx="260" cy="722" r="15" fill="#4DA3FF" fill-opacity=".8"/>
+  <path d="M214 770C226 742 294 742 306 770" stroke="#4DA3FF" stroke-width="5" stroke-linecap="round"/>
+  <text x="365" y="730" fill="#F4F7FB" font-family="sans-serif" font-size="28">Milo&apos;s circle</text>
+  <text x="365" y="768" fill="#8B96A8" font-family="monospace" font-size="13">12 trusted members</text>
+  <rect x="710" y="560" width="740" height="280" fill="#0D1725" stroke="#FFFFFF" stroke-opacity=".1"/>
+  <text x="755" y="625" fill="#8B96A8" font-family="monospace" font-size="13">LATEST FROM THE COMMUNITY</text>
+  <text x="755" y="695" fill="#F4F7FB" font-family="sans-serif" font-size="26">Small habits that help anxious dogs</text>
+  <text x="755" y="742" fill="#8B96A8" font-family="monospace" font-size="13">CARE / 4 MIN READ</text>
+  <line x1="755" y1="790" x2="1400" y2="790" stroke="#2F80FF" stroke-opacity=".5"/>
+  <text x="1350" y="890" fill="#4DA3FF" font-family="monospace" font-size="14">EXPLORE ↗</text>
+</svg>

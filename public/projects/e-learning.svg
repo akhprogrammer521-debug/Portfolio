@@ -1,0 +1,24 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#08111A"/>
+  <circle cx="1420" cy="0" r="430" fill="#2F80FF" fill-opacity=".15"/>
+  <path d="M0 890L320 700L610 820L920 530L1220 650L1600 360" stroke="#4DA3FF" stroke-opacity=".3" stroke-width="2"/>
+  <rect x="120" y="90" width="1360" height="920" fill="#0B1724" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <text x="175" y="175" fill="#F4F7FB" font-family="sans-serif" font-size="26" font-weight="500">learn / forward</text>
+  <text x="1290" y="175" fill="#4DA3FF" font-family="monospace" font-size="13">STUDENT VIEW / 05</text>
+  <line x1="175" y1="215" x2="1425" y2="215" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <text x="175" y="320" fill="#8B96A8" font-family="monospace" font-size="14" letter-spacing="2">CONTINUE LEARNING</text>
+  <text x="175" y="400" fill="#F4F7FB" font-family="sans-serif" font-size="67" font-weight="500">Design systems</text>
+  <text x="175" y="478" fill="#4DA3FF" font-family="sans-serif" font-size="67" font-weight="500">in practice.</text>
+  <rect x="175" y="565" width="820" height="18" fill="#22354A"/>
+  <rect x="175" y="565" width="480" height="18" fill="#2F80FF"/>
+  <text x="175" y="630" fill="#8B96A8" font-family="monospace" font-size="13">LESSON 08 / 12</text>
+  <text x="1425" y="630" text-anchor="end" fill="#4DA3FF" font-family="monospace" font-size="13">58% COMPLETE</text>
+  <rect x="1050" y="315" width="320" height="330" fill="#102238" stroke="#4DA3FF" stroke-opacity=".42"/>
+  <text x="1090" y="372" fill="#8B96A8" font-family="monospace" font-size="12">UP NEXT</text>
+  <circle cx="1210" cy="480" r="72" stroke="#4DA3FF" stroke-opacity=".65" stroke-width="2"/>
+  <path d="M1191 450L1240 480L1191 510V450Z" fill="#4DA3FF"/>
+  <text x="1090" y="594" fill="#F4F7FB" font-family="sans-serif" font-size="19">The token layer</text>
+  <text x="175" y="850" fill="#8B96A8" font-family="monospace" font-size="13">01 / CURRICULUM</text>
+  <text x="485" y="850" fill="#F4F7FB" font-family="sans-serif" font-size="20">Interface foundations</text>
+  <text x="1150" y="850" fill="#4DA3FF" font-family="monospace" font-size="13">OPEN ↗</text>
+</svg>

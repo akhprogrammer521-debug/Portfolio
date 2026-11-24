@@ -1,0 +1,36 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#09111D"/>
+  <path d="M0 180H1600M0 380H1600M0 580H1600M0 780H1600M0 980H1600M200 0V1100M500 0V1100M800 0V1100M1100 0V1100M1400 0V1100" stroke="#2F80FF" stroke-opacity=".13"/>
+  <rect x="115" y="106" width="1370" height="888" rx="2" stroke="#4DA3FF" stroke-opacity=".45"/>
+  <rect x="165" y="163" width="1270" height="85" fill="#0D1A2A" stroke="#4DA3FF" stroke-opacity=".28"/>
+  <circle cx="214" cy="205" r="17" fill="#2F80FF" fill-opacity=".9"/>
+  <path d="M204 205H224M214 195V215" stroke="white" stroke-width="2"/>
+  <text x="258" y="211" fill="#F4F7FB" font-family="monospace" font-size="22" letter-spacing="4">MEDISCAN / OPERATIONS</text>
+  <text x="1220" y="211" fill="#8B96A8" font-family="monospace" font-size="15">ONLINE 09:42</text>
+  <rect x="165" y="290" width="270" height="646" fill="#0D1A2A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="205" y="347" fill="#8B96A8" font-family="monospace" font-size="13" letter-spacing="2">WORKSPACE</text>
+  <text x="205" y="407" fill="#4DA3FF" font-family="monospace" font-size="16">01  OVERVIEW</text>
+  <text x="205" y="455" fill="#8B96A8" font-family="monospace" font-size="16">02  PATIENTS</text>
+  <text x="205" y="503" fill="#8B96A8" font-family="monospace" font-size="16">03  SCHEDULE</text>
+  <text x="205" y="551" fill="#8B96A8" font-family="monospace" font-size="16">04  REPORTS</text>
+  <rect x="490" y="290" width="945" height="220" fill="#0B1523" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="535" y="345" fill="#8B96A8" font-family="monospace" font-size="13" letter-spacing="2">TODAY / CLINIC SNAPSHOT</text>
+  <text x="535" y="435" fill="#F4F7FB" font-family="sans-serif" font-weight="500" font-size="67">1,284</text>
+  <text x="790" y="435" fill="#4DA3FF" font-family="monospace" font-size="14">+18.4%</text>
+  <path d="M1060 430C1100 400 1115 440 1155 402C1193 366 1222 421 1258 380C1292 341 1312 375 1360 328" stroke="#2F80FF" stroke-width="3"/>
+  <rect x="490" y="550" width="445" height="386" fill="#0B1523" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="535" y="608" fill="#8B96A8" font-family="monospace" font-size="13" letter-spacing="2">UPCOMING</text>
+  <circle cx="570" cy="700" r="23" stroke="#4DA3FF" stroke-opacity=".8"/>
+  <text x="620" y="696" fill="#F4F7FB" font-family="sans-serif" font-size="22">Patient review</text>
+  <text x="620" y="730" fill="#8B96A8" font-family="monospace" font-size="13">10:30 / ROOM 04</text>
+  <line x1="535" y1="783" x2="890" y2="783" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <circle cx="570" cy="850" r="23" stroke="#4DA3FF" stroke-opacity=".8"/>
+  <text x="620" y="846" fill="#F4F7FB" font-family="sans-serif" font-size="22">Consultation</text>
+  <text x="620" y="880" fill="#8B96A8" font-family="monospace" font-size="13">11:45 / ROOM 02</text>
+  <rect x="990" y="550" width="445" height="386" fill="#0B1523" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <text x="1035" y="608" fill="#8B96A8" font-family="monospace" font-size="13" letter-spacing="2">ACTIVITY</text>
+  <rect x="1035" y="680" width="290" height="10" fill="#2F80FF" fill-opacity=".75"/>
+  <rect x="1035" y="720" width="230" height="10" fill="#4DA3FF" fill-opacity=".35"/>
+  <rect x="1035" y="760" width="340" height="10" fill="#2F80FF" fill-opacity=".45"/>
+  <rect x="1035" y="800" width="180" height="10" fill="#4DA3FF" fill-opacity=".25"/>
+</svg>
